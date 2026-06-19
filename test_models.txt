@@ -1,0 +1,2 @@
+agy --model "Gemini 3.1 Pro (High)" -p "Antworte nur mit: Gemini funktioniert"
+agy --model "Claude Opus 4.6 (Thinking)" -p "Antworte nur mit: Claude funktioniert"
