@@ -1,7 +1,0 @@
-{
-  "question": "Erkläre kurz, ob dieser Fusion-Workflow auf meinem Mac sinnvoll aufgebaut ist.",
-  "gemini_model": "Gemini 3.1 Pro (High)",
-  "claude_model": "Claude Opus 4.6 (Thinking)",
-  "codex_model": "gpt-5.5 xhigh via Codex default config",
-  "run_dir": "/Users/jaenix/Documents/fusion-AI-council/runs/20260619_214027"
-}

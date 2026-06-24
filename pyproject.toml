@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fusion-AI-council"
+version = "0.1.0"
+description = "CLI-first multi-model fusion council for coding and scientific-writing workflows."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML>=6.0",
+]
+
+[project.scripts]
+fusion-council = "fusion_ai_council.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["fusion_ai_council*"]
+
